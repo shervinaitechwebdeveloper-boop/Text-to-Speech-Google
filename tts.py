@@ -4,7 +4,7 @@ from google import genai
 from google.genai import types
 
 # کلید API خود را دقیقاً به جای عبارت زیر داخل کوتیشن قرار دهید
-os.environ["GEMINI_API_KEY"] = "AQ.Ab8RN6JnsGpbJbH1d-3rZNK5_-1S_y2co9g8JTanNJNRasENwQ"
+os.environ["GEMINI_API_KEY"] = "api key"
 
 client = genai.Client()
 
