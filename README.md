@@ -259,7 +259,8 @@ api_key = os.environ["GEMINI_API_KEY"]
 
 **Shervin AI Tech**
 
-[کانال YouTube شروین AI Tech](https://www.youtube.com/@ShervinAITech?utm_source=chatgpt.com)
+
+[کانال YouTube Shervin AI Tech](https://www.youtube.com/@ShervinAITech?utm_source=chatgpt.com)
 
 ---
 
